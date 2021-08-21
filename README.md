@@ -29,44 +29,44 @@ Para nuevos desde cero en termux:
 > apt upgrade && pkg upgrade
 > apt install git && pkg install git
 > apt install tesseract && pkg install tesseract
-> apt install nodejs && pkg install nodejs
+> apt install nodejs && pkg instal
 > apt install libwebp && pkg install libwebp
 > apt install ffmpeg && pkg install ffmpeg
 > apt install wget && pkg install wget
 
-⚡Si necesitas mas ayuda puedes contactarme :3 wa.me/+51995386439
-```
+
+''
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone https://github.com/NeKosmic/NK-BOT 
-> cd NK-BOT
+> clon de git https://github.com/LUZAICK/DULCE-BOT
+> cd DULCE-BOT
 > bash install.sh
-> npm start/node nkbot.js 
+> npm inicio / nodo nkbot.js
 Para detener al bot en termux
-> Ctrl+c
+> Ctrl + c
 ⚡Si necesitas mas ayuda puedes contactarme 
 +51 995 386 439
 ```
 ## Partes donde puedes editar al bot :v
-- Edicion de tu numero, nombre del bot, limite... [este archivo](https://github.com/NeKosmic/NeKosmic/blob/main/informacion.json)
-- Edicion de bienvenida automática [este archivo](https://github.com/NeKosmic/NeKosmic/blob/main/editbienbenida.json)
-- Agregar sus imágenes random [Esta ruta](https://github.com/NeKosmic/NK-BOT/tree/main/fakeapixd)
-- Destrabas (Pueden editar y poner su Destraba :v) [esta ruta](https://github.com/NeKosmic/NeKosmic/tree/main/basededatosxd/uwudefender)
+- Edicion de tu numero, nombre del bot, limite ... [este archivo] (https://github.com/LUZAICK/DULCE-BOT/edit/main/README.md)
+- Edicion de bienvenida automática [este archivo] (https://github.com/LUZAICK/DULCE-BOT/edit/main/README.md)
+- Agregar sus imágenes al azar [Esta ruta] (https://github.com/LUZAICK/DULCE-BOT/edit/main/README.md)
+- Destrabas (pueden editar y poner su Destraba: v) [esta ruta] (https://github.com/LUZAICK/DULCE-BOT/edit/main/README.md)
 
 ### Editar info del bot
 
-```bash
+golpe
 {
-    "creadorprincipal": "NUMERO PRINCIPAL", (Su numero con el cual usaran al bot por completo)
-    "contribuidorxd": "NUMERO SECUNDARIO", (Pueden poner el numero de un familiar, mejor amig@, novi@... podra usar el bot al igual que el dueño principal :v)
-    "contactosd": "NUMERO PRINCIPAL CON PREFIJO", (1. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+51995386439")
-    "contactosdd": "NÚMERO PRINCIPAL CON PREFIJO", (2. Aqui poner su numero con el prefijo de su pais correspondiente, Ejm: "+51 995 386 439")
-    "sdcarduwu": "NOMBRE DEL CREADOR", (Poner su nombre real o su nickname ._.XD)
-  "memberlimit": "LIMITE DE MIENBROS EN UN GRUPO", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 2 asta 257)
+    "creadorprincipal": "524131653720" DULCE-BOT
+    "contribuidorxd": "+50242725900”
+    "contactosd": "+524131653720"
+    "contactosdd": "+52413653720"
+    "sdcarduwu": "DULCE-BOT"
+  "memberlimit": "LIMITE DE MIENBROS EN UN GRUPO", (Ejm: Cuando alguien agrege al bot a un grupo con menos de 2 integrantes automáticamente el bot se saldra del grupo, limite es desde 5 hasta257)
   "mensajes": "LIMITE DE USO PARA COMANDOS", (Aqui pueden poner el limite que quieran)
-  "namebotuwu": "NOMBRE DEL BOT" (Ponganle el name que quieran a su bot :3)
+  "namebotuwu": "NOMBRE DEL BOT" 
 }
-```
+''
 
 ### Editar bienvenida automática
 
@@ -75,12 +75,12 @@ Para detener al bot en termux
     "bienbenida1": "TEXTO DIRIGIENDOSE A UN USUARIO NUEVO",
     "bienbenida2": "TEXTO NOMBRANDO AL NOMBRE DEL GRUPO",
     "bienbenida3": "FICHA DE PRESENTACIÓN",
-    "bienbenida4": "TEXTO FINAL CUALQUIERA"
+    "bienbenida4": "TEXTO FINAL CUALQUIERA" 
   }
 ```
-## Comentarios ó sugerencias :3
+## Comentarios ó sugerencias: 3
 
-```bash
+`` golpe
 > Si encuentran algun error me comentan ;)
 ```
 
@@ -88,7 +88,7 @@ Para detener al bot en termux
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/NazwaS"><img alt="GitHub" src="https://img.shields.io/badge/NazwaS%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+* <  Un   href = "https://github.com/NazwaS"  >  <  img   alt = "GitHub"   src = "https://img.shields.io/badge/NazwaS%20-%23121011.svg?&style= for-the-badge & logo = github & logoColor = white "  >
 ## Grupo de WhatsApp
 PSDT: Grupo otaku/anime
-* <a href="https://chat.whatsapp.com/BcSo5z69P0f7gDOJA3FaKy"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <   Un    href = "https://chat.whatsapp.com/BcSo5z69P0f7gDOJA3FaKy"   >   <   img    alt = "WhatsApp"    src = "https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for -the-badge & logo = whatsapp & logoColor = white "   />   </   a   >
