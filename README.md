@@ -45,7 +45,7 @@ Para nuevos desde cero en termux:
 Para detener al bot en termux
 > Ctrl + c
 ⚡Si necesitas mas ayuda puedes contactarme 
-+51 995 386 439
++50242725900
 ```
 ## Partes donde puedes editar al bot :v
 - Edicion de tu numero, nombre del bot, limite ... [este archivo] (https://github.com/LUZAICK/DULCE-BOT/edit/main/README.md)
